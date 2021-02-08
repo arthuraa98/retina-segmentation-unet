@@ -3,7 +3,7 @@ Created on Mon Nov  9 13:13:49 2020
 
 @author: arthur de andrade
 
-This creates de hdf5 datasets of the DRIVE database
+Creates de hdf5 datasets of the DRIVE database
 """
 
 import h5py
